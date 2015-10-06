@@ -23,3 +23,16 @@
 # How to Collaborate
 
 Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
+
+# Built with Rails
+
+1. [Twitter](https://twitter.com/)
+1. [Basecamp](https://basecamp.com/)
+1. [Yellow pages](http://www.yellowpages.com/)
+1. [Hulu](http://www.hulu.com/)
+1. [Slideshare](http://www.slideshare.net/)
+1. [Github](https://github.com/)
+1. [Shopify](http://www.shopify.com/)
+1. [Groupon](http://www.groupon.com/)
+1. [Urban Dictionary](http://www.urbandictionary.com/)
+1. [AirBnb](https://www.airbnb.com/)
