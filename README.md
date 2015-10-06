@@ -20,3 +20,6 @@
 * [Talks](#talks)
 * [More Useful Links](#more-useful-links)
 
+# How to Collaborate
+
+Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
