@@ -61,3 +61,10 @@ Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-G
 1. [Whitepages](http://www.whitepages.com/)
 1. [Yammer](https://www.yammer.com)
 1. [ThemeForest](http://themeforest.net/)
+
+# Community
+
+1. [Ruby on Rails: Community](http://rubyonrails.org/community/)
+1. [Rails on Twitter](https://twitter.com/rails)
+1. [Ruby on Rails: Talk - Google group](https://groups.google.com/forum/#!forum/rubyonrails-talk)
+1. [Ruby Community](https://www.ruby-lang.org/en/community/)
