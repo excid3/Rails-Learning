@@ -7,12 +7,12 @@
 ## Table of Contents
 
 * [How to Collaborate](#how-to-collaborate)
+* [Curriculum](#curriculum)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
 * [Books](#books)
 * [Built with Rails](#built-with-meteor)
 * [Community](#community)
-* [Courses](#courses)
 * [Learn with Code](#learn-with-code)
 * [News](#news)
 * [Podcasts](#podcasts)
@@ -24,6 +24,20 @@
 # How to Collaborate
 
 Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
+
+---
+
+# Curriculum
+
+- [Introduction](#introduction)
+
+---
+
+### Introduction
+
+Courses|
+:--|
+[]()|
 
 # Tutorials
 
@@ -73,6 +87,23 @@ Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-G
 1. [Rails on Twitter](https://twitter.com/rails)
 1. [Ruby on Rails: Talk - Google group](https://groups.google.com/forum/#!forum/rubyonrails-talk)
 1. [Ruby Community](https://www.ruby-lang.org/en/community/)
+
+
+# News
+
+1. [Ruby Weekly](http://rubyweekly.com/)
+
+# Podcasts
+
+1. [Ruby5](https://ruby5.codeschool.com/)
+1. [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+1. [5by5](http://5by5.tv/rubyonrails)
+
+# Screencasts
+
+1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
+1. [Learning Rails the Zombie Way](http://railsforzombies.org/)
+1. [Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)
 
 # Talks
 
