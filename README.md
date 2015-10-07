@@ -6,7 +6,6 @@
 
 ## Table of Contents
 
-* [How to Collaborate](#how-to-collaborate)
 * [Curriculum](#curriculum)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
@@ -20,10 +19,7 @@
 * [Slides](#slides)
 * [Talks](#talks)
 * [More Useful Links](#more-useful-links)
-
-# How to Collaborate
-
-Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
+* [How to Collaborate](#how-to-collaborate)
 
 ---
 
@@ -33,7 +29,7 @@ Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-G
 
 ---
 
-### Introduction
+## Introduction
 
 Courses|
 :--|
@@ -110,3 +106,8 @@ Courses|
 1. [The Best of RailsConf 2015](https://mattbrictson.com/best-of-railsconf-2015)
 1. [Railsconf 2014, Talks I Liked](http://nepalonrails.com/blog/2014/05/railsconf-2014-talks-i-liked)
 1. [Favorite talks of RailsConf 2013](http://blog.planetargon.com/entries/2013/5/31/favorite-talks-of-railsconf-2013)
+
+# How to Collaborate
+
+Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
+
