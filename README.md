@@ -7,9 +7,10 @@
 ## Table of Contents
 
 * [How to Collaborate](#how-to-collaborate)
-* [Articles & Tutorials](#articles--tutorials)
+* [Tutorials](#tutorials)
+* [Articles](#articles)
 * [Books](#books)
-* [Built with Rails](#built-with-rails)
+* [Built with Rails](#built-with-meteor)
 * [Community](#community)
 * [Courses](#courses)
 * [Learn with Code](#learn-with-code)
@@ -23,6 +24,10 @@
 # How to Collaborate
 
 Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-Graduate/issues?q=is%3Aopen) to send more useful links! After it, I'll update the list!
+
+# Tutorials
+
+1. [How to develop a social network using Ruby on Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
 
 # Built with Rails
 
@@ -68,3 +73,7 @@ Send a pull request or just open an [issue](https://github.com/sagarmred/Rails-G
 1. [Rails on Twitter](https://twitter.com/rails)
 1. [Ruby on Rails: Talk - Google group](https://groups.google.com/forum/#!forum/rubyonrails-talk)
 1. [Ruby Community](https://www.ruby-lang.org/en/community/)
+
+# Talks
+
+1. [The Best of RailsConf 2015](https://mattbrictson.com/best-of-railsconf-2015)
