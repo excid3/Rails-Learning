@@ -2,7 +2,7 @@
 
 ![Ruby on Rails](http://blog.teamtreehouse.com/wp-content/uploads/2013/05/railsBlog1.jpg)
 
-**List of resources to learning this amazing platform for building top-quality web apps with Ruby on Rails! ❤**
+**Learn Ruby on Rails, an open-source framework for the Ruby programming language. **
 
 # [Ruby on Rails](http://rubyonrails.org/)
 
@@ -27,15 +27,48 @@
 
 # Curriculum
 
-- [Introduction](#introduction)
+- [Beginner](#beginner)
+- [Intermediate](#intermediate)
+- [Advanced](#advanced)
 
 ---
+# Beginner
 
-## Introduction
+Path | Courses | Difficulty
+:--: | :-- | :--:
+Ruby |[Try Ruby](http://tryruby.org/)|Easy
+Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)|Easy
+HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy
+Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy
+Rails |[Ruby on Rails Tutorial](https://www.railstutorial.org/)|Easy
 
-Courses|
-:--|
-[]()|
+### Additional
+Path | Courses | Difficulty
+:--: | :-- | :--:
+Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy
+SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy
+
+# Intermediate
+
+Path | Courses | Difficulty
+:--: | :-- | :--:
+
+### Additional
+Path | Courses | Difficulty
+:--: | :-- | :--:
+JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy
+jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy
+
+
+# Advanced
+
+Path | Courses | Difficulty
+:--: | :-- | :--:
+
+### Additional
+Path | Courses | Difficulty
+:--: | :-- | :--:
+
 
 # Tutorials
 
