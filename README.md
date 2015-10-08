@@ -9,10 +9,10 @@
 ## Table of Contents
 
 * [Curriculum](#curriculum)
+* [Books](#books)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
-* [Books](#books)
-* [Built with Rails](#built-with-meteor)
+* [Built with Rails](#built-with-rails)
 * [Community](#community)
 * [Learn with Code](#learn-with-code)
 * [News](#news)
