@@ -45,18 +45,21 @@ Rails |[Ruby on Rails Tutorial](https://www.railstutorial.org/)|Easy
 ### Additional
 Path | Courses | Difficulty
 :--: | :-- | :--:
+JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy
 Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy
-SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy
+
+
 
 # Intermediate
 
 Path | Courses | Difficulty
 :--: | :-- | :--:
+Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium
 
 ### Additional
 Path | Courses | Difficulty
 :--: | :-- | :--:
-JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy
+SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy
 jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy
 
 
@@ -64,6 +67,7 @@ jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy
 
 Path | Courses | Difficulty
 :--: | :-- | :--:
+Ruby |[Advanced Ruby](http://rubykoans.com/)|Hard
 
 ### Additional
 Path | Courses | Difficulty
