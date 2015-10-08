@@ -2,7 +2,7 @@
 
 ![Ruby on Rails](http://blog.teamtreehouse.com/wp-content/uploads/2013/05/railsBlog1.jpg)
 
-**Learn Ruby on Rails, an open-source framework for the Ruby programming language. **
+**Learn Ruby on Rails, an open-source framework for the Ruby programming language.**
 
 # [Ruby on Rails](http://rubyonrails.org/)
 
