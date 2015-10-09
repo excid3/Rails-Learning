@@ -13,9 +13,8 @@
 * [Tutorials](#tutorials)
 * [Articles](#articles)
 * [Built with Rails](#built-with-rails)
+* [DevTools](#devtools)
 * [Community](#community)
-* [Learn with Code](#learn-with-code)
-* [News](#news)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
 * [Slides](#slides)
@@ -54,40 +53,58 @@ Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_start
 
 # Intermediate
 
-Path | Courses | Difficulty
+Path | Courses | Difficulty|
 :--: | :-- | :--:
 Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium
-Ruby | [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium
+Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium
 Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium
-Rails|[Agile web development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium
+Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium
 
 ### Additional
 Path | Courses | Difficulty
 :--: | :-- | :--:
 SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy
 jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy
+Rails | [The Rails 4 Way](https://leanpub.com/tr4w)|Medium
 
 
 # Advanced
 
 Path | Courses | Difficulty
 :--: | :-- | :--:
-Ruby |[Advanced Ruby](http://rubykoans.com/)|Hard
+Ruby |[Ruby - RubyKoans](http://rubykoans.com/)|Medium
 Ruby |[Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)|Hard
 Rails|[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)|Hard
 
 ### Additional
 Path | Courses | Difficulty
 :--: | :-- | :--:
-Ruby |[Eloquent Ruby](http://eloquentruby.com/)
+Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium
 
+# Books
+
+1. [Learn to Program](https://pine.fm/LearnToProgram/)
+1. [Learn Ruby The Hard Way](http://learnrubythehardway.org/)
+1. [Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)
+1. [Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)
+1. [The Rails 4 Way](https://leanpub.com/tr4w)
+1. [Eloquent Ruby](http://eloquentruby.com/)
+1. [Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+1. [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)
+1. [Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)
+1. [The Ruby Programming Language](http://shop.oreilly.com/product/9780596516178.do)
+1. [Design Patterns in Ruby](http://designpatternsinruby.com/)
 
 # Tutorials
 
 1. [How to develop a social network using Ruby on Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
 1. [SaaS Course - The welcome word - Prograils](https://prograils.com/courses/saas/ch/01-the-welcome-word)
+
+# Articles
+
 1. [Building a Ruby Gem in 2015](https://mattbrictson.com/building-a-gem-in-2015) - [Matt Brictson](https://mattbrictson.com/)
 1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
+
 
 # Built with Rails
 
@@ -127,6 +144,13 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)
 1. [Yammer](https://www.yammer.com)
 1. [ThemeForest](http://themeforest.net/)
 
+# DevTools
+
+- [Sublime Text](http://www.sublimetext.com/)
+- [RubyMine](https://www.jetbrains.com/ruby/)
+- [Vim](http://www.vim.org/)
+
+
 # Community
 
 1. [Ruby on Rails: Community](http://rubyonrails.org/community/)
@@ -149,11 +173,20 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)
 
 1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
 
+# Slides
+
+1. [Testing Ruby with Rspec (a beginner's guide)](http://www.slideshare.net/vysakh0/testing-ruby-with-rspec-a-beginners-guide)
+
+
 # Talks
 
 1. [The Best of RailsConf 2015](https://mattbrictson.com/best-of-railsconf-2015)
 1. [Railsconf 2014, Talks I Liked](http://nepalonrails.com/blog/2014/05/railsconf-2014-talks-i-liked)
 1. [Favorite talks of RailsConf 2013](http://blog.planetargon.com/entries/2013/5/31/favorite-talks-of-railsconf-2013)
+
+# More Useful Links
+
+1. [The Ruby Toolbox - Know Your Options!](https://www.ruby-toolbox.com/)
 
 # How to Collaborate
 
