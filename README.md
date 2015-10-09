@@ -33,53 +33,53 @@
 ---
 # Beginner
 
-Path | Courses | Difficulty
-:--: | :-- | :--:
-Ruby |[Try Ruby](http://tryruby.org/)|Easy
-Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)|Easy
-HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy
-Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy
-Rails |[Ruby on Rails Tutorial](https://www.railstutorial.org/)|Easy
+Path | Courses | Difficulty | Type
+:--: | :-- | :--: | :--:
+Ruby |[Try Ruby](http://tryruby.org/)|Easy | Web
+Ruby|[Ruby - Codecademy](https://www.codecademy.com/tracks/ruby)|Easy | Web
+HTML & CSS|[HTML & CSS - Codecademy](https://www.codecademy.com/tracks/web)|Easy| Web
+Rails |[Rails for Zombies Redux](https://www.codeschool.com/courses/rails-for-zombies-redux)|Easy | Video
+Rails |[Ruby on Rails Tutorial](https://www.railstutorial.org/)|Easy| Book & Video
 
 ### Additional
-Path | Courses | Difficulty
-:--: | :-- | :--:
-JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy
-Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy
-Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Easy
-Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Easy
+PPath | Courses | Difficulty | Type
+:--: | :-- | :--: | :--:
+JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy | Video
+Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy | Web
+Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Easy|Book
+Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Easy|Web
 
 
 
 # Intermediate
 
-Path | Courses | Difficulty|
-:--: | :-- | :--:
-Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium
-Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium
-Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium
-Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium
+Path | Courses | Difficulty | Type
+:--: | :-- | :--: | :--:
+Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium|Web
+Ruby |[Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium|Book
+Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium|Video
+Rails|[Agile Web Development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium|Book
 
 ### Additional
-Path | Courses | Difficulty
-:--: | :-- | :--:
-SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy
-jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy
-Rails | [The Rails 4 Way](https://leanpub.com/tr4w)|Medium
+Path | Courses | Difficulty | Type
+:--: | :-- | :--: | :--:
+SQL |[Try SQL - Code School](https://www.codeschool.com/courses/try-sql)| Easy|Video
+jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy|Video
+Rails | [The Rails 4 Way](https://leanpub.com/tr4w)|Medium|Book
 
 
 # Advanced
 
-Path | Courses | Difficulty
-:--: | :-- | :--:
-Ruby |[Ruby - RubyKoans](http://rubykoans.com/)|Medium
-Ruby |[Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)|Hard
-Rails|[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)|Hard
+Path | Courses | Difficulty | Type
+:--: | :-- | :--: | :--:
+Ruby |[Ruby - RubyKoans](http://rubykoans.com/)|Medium|Book
+Ruby |[Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)|Hard|Book
+Rails|[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)|Hard|Book
 
 ### Additional
-Path | Courses | Difficulty
-:--: | :-- | :--:
-Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium
+Path | Courses | Difficulty | Type
+:--: | :-- | :--: | :--:
+Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium|Book
 
 # Books
 
@@ -153,21 +153,21 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium
 
 # Community
 
-1. [Ruby on Rails: Community](http://rubyonrails.org/community/)
-1. [Rails on Twitter](https://twitter.com/rails)
-1. [Ruby on Rails: Talk - Google group](https://groups.google.com/forum/#!forum/rubyonrails-talk)
-1. [Ruby Community](https://www.ruby-lang.org/en/community/)
+- [Ruby on Rails: Community](http://rubyonrails.org/community/)
+- [Rails on Twitter](https://twitter.com/rails)
+- [Ruby on Rails: Talk - Google group](https://groups.google.com/forum/#!forum/rubyonrails-talk)
+- [Ruby Community](https://www.ruby-lang.org/en/community/)
 
 
 # News
 
-1. [Ruby Weekly](http://rubyweekly.com/)
+- [Ruby Weekly](http://rubyweekly.com/)
 
 # Podcasts
 
-1. [Ruby5](https://ruby5.codeschool.com/)
-1. [Ruby Rogues](https://devchat.tv/ruby-rogues/)
-1. [5by5](http://5by5.tv/rubyonrails)
+- [Ruby5](https://ruby5.codeschool.com/)
+- [Ruby Rogues](https://devchat.tv/ruby-rogues/)
+- [5by5](http://5by5.tv/rubyonrails)
 
 # Screencasts
 
@@ -186,7 +186,7 @@ Ruby |[Eloquent Ruby](http://eloquentruby.com/)|Medium
 
 # More Useful Links
 
-1. [The Ruby Toolbox - Know Your Options!](https://www.ruby-toolbox.com/)
+- [The Ruby Toolbox - Know Your Options!](https://www.ruby-toolbox.com/)
 
 # How to Collaborate
 
