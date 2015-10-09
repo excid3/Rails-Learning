@@ -47,6 +47,8 @@ Path | Courses | Difficulty
 :--: | :-- | :--:
 JavaScript|[JavaScript Basics](https://www.codeschool.com/courses/javascript-road-trip-part-1)|Easy
 Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy
+Ruby |[Programming Ruby 1.9 & 2.0](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0)|Easy
+Rails | [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html)|Easy
 
 
 
@@ -55,6 +57,9 @@ Git |[Try Git - Code School](https://www.codeschool.com/courses/try-git)|Easy
 Path | Courses | Difficulty
 :--: | :-- | :--:
 Ruby |[Ruby - RubyMonk](http://rubymonk.com/)|Medium
+Ruby | [Practical Object-Oriented Design in Ruby](http://www.poodr.com/)|Medium
+Rails|[Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)|Medium
+Rails|[Agile web development with Rails](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|Medium
 
 ### Additional
 Path | Courses | Difficulty
@@ -68,15 +73,21 @@ jQuery|[Try jQuery](https://www.codeschool.com/courses/try-jquery)|Easy
 Path | Courses | Difficulty
 :--: | :-- | :--:
 Ruby |[Advanced Ruby](http://rubykoans.com/)|Hard
+Ruby |[Metaprogramming Ruby](https://pragprog.com/book/ppmetr/metaprogramming-ruby)|Hard
+Rails|[Crafting Rails 4 Applications](https://pragprog.com/book/jvrails2/crafting-rails-4-applications)|Hard
 
 ### Additional
 Path | Courses | Difficulty
 :--: | :-- | :--:
+Ruby |[Eloquent Ruby](http://eloquentruby.com/)
 
 
 # Tutorials
 
 1. [How to develop a social network using Ruby on Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233)
+1. [SaaS Course - The welcome word - Prograils](https://prograils.com/courses/saas/ch/01-the-welcome-word)
+1. [Building a Ruby Gem in 2015](https://mattbrictson.com/building-a-gem-in-2015) - [Matt Brictson](https://mattbrictson.com/)
+1. [Setting up Sublime Text 3 for Rails Development](https://mattbrictson.com/sublime-text-3-recommendations) - [Matt Brictson](https://mattbrictson.com/)
 
 # Built with Rails
 
@@ -137,8 +148,6 @@ Path | Courses | Difficulty
 # Screencasts
 
 1. [RailsCasts: Ruby on Rails Screencasts](http://railscasts.com/)
-1. [Learning Rails the Zombie Way](http://railsforzombies.org/)
-1. [Rails 4: Zombie Outlaws](http://rails4.codeschool.com/videos)
 
 # Talks
 
