@@ -14,6 +14,7 @@
 * [Articles](#articles)
 * [Built with Rails](#built-with-rails)
 * [DevTools](#devtools)
+* [Help](#help)
 * [Community](#community)
 * [Podcasts](#podcasts)
 * [Screencasts](#screencasts)
